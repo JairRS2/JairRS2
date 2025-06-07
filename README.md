@@ -18,7 +18,7 @@ Soy un apasionado desarrollador con experiencia en la construcción de aplicacio
 
 ### 📊 Mis Estadísticas de GitHub
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JairRS2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
