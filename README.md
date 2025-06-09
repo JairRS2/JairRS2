@@ -24,8 +24,9 @@ Soy un apasionado desarrollador con experiencia en la construcción de aplicacio
 
 ### 🚀 Proyectos Destacados
 
-* [Nombre del Proyecto 1](Link_al_proyecto_1) - Breve descripción.
-* [Nombre del Proyecto 2](Link_al_proyecto_2) - Breve descripción.
+* [AgroSabio](https://agrosabio.netlify.app) - Proyecto enfocado a la agricultura.
+* [Encuesta ADIC](https://encuesta-adic.netlify.app) - pequeña app web para valorar la satisfacion del cliente.
+* [MBINSUMOS](https://mbinsumos.netlify.app) - Proyecto para una pequeña empresa para su gestion de inventarios.
 
 ---
 
