@@ -33,4 +33,5 @@ Soy un apasionado desarrollador con experiencia en la construcción de aplicacio
 ### 💬 Conectemos
 
 * LinkedIn:([https://www.linkedin.com/in/tu_perfil/](https://www.linkedin.com/in/adolfo-jair-rosas-sanchez-980b01296/))
+* CV:([https://jaircv.netlify.app/)]
 ---
