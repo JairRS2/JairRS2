@@ -2,7 +2,7 @@
 
 ### 💻 Desarrollador Full-Stack, Sistemas ERP y Emprendedor Tecnológico
 
-Soy un apasionado desarrollador radicado en Veracruz, México, con experiencia en la construcción de aplicaciones web, software empresarial y aplicaciones de escritorio. Me encanta transformar ideas en soluciones robustas y eficientes, combinando mi gusto por el código con la optimización de sistemas a nivel de hardware.
+Soy un apasionado desarrollador, con experiencia en la construcción de aplicaciones web, software empresarial y aplicaciones de escritorio. Me encanta transformar ideas en soluciones robustas y eficientes, combinando mi gusto por el código con la optimización de sistemas a nivel de hardware.
 
 ---
 
@@ -33,14 +33,6 @@ Soy un apasionado desarrollador radicado en Veracruz, México, con experiencia e
 
 ---
 
-### ⚡ Sobre mí
-
-* 🔧 Soy un gran entusiasta del **mantenimiento de hardware** y el ensamblaje de PCs (actualmente manteniendo a tope mi Acer Predator).
-* 🗣️ Estoy en constante aprendizaje, actualmente dedicando tiempo a perfeccionar mi **inglés conversacional**.
-* 🏐 Cuando me alejo del teclado, disfruto de un buen partido de **voleibol**. 
-* 🎮 En mis ratos libres soy un gamer activo (búscame como **xJairRS** en Fortnite, Valorant o Minecraft).
-
----
 
 ### 💬 Conectemos
 
