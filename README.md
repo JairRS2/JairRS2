@@ -1,8 +1,8 @@
-# Hola 👋 Soy Jair
+# Hola 👋 Soy Jair (Adolfo Jair Rosas Sanchez)
 
-### 💻 Desarrollador Full-Stack y de Sistemas ERP
+### 💻 Desarrollador Full-Stack, Sistemas ERP y Emprendedor Tecnológico
 
-Soy un apasionado desarrollador con experiencia en la construcción de aplicaciones web y software empresarial. Me encanta transformar ideas en soluciones robustas y eficientes.
+Soy un apasionado desarrollador radicado en Veracruz, México, con experiencia en la construcción de aplicaciones web, software empresarial y aplicaciones de escritorio. Me encanta transformar ideas en soluciones robustas y eficientes, combinando mi gusto por el código con la optimización de sistemas a nivel de hardware.
 
 ---
 
@@ -12,8 +12,10 @@ Soy un apasionado desarrollador con experiencia en la construcción de aplicacio
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET & WinForms](https://img.shields.io/badge/.NET_&_WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ---
 
 ### 📊 Mis Estadísticas de GitHub
@@ -24,14 +26,23 @@ Soy un apasionado desarrollador con experiencia en la construcción de aplicacio
 
 ### 🚀 Proyectos Destacados
 
-* [AgroSabio](https://agrosabio.netlify.app) - Proyecto enfocado a la agricultura.
-* [Encuesta ADIC](https://encuesta-adic.netlify.app) - pequeña app web para valorar la satisfacion del cliente.
-* [MBINSUMOS](https://mbinsumos.netlify.app) - Proyecto para una pequeña empresa para su gestion de inventarios.
+* **BusEnvio** - Solución de software desarrollada en C# (WinForms) diseñada para el rastreo de paquetes y cálculo preciso de costos de envío para servicios de transporte por autobús.
+* [**MB Insumos**](https://mb-services.netlify.app) - Plataforma y sistema de gestión para un negocio propio que provee suministros de computación, mantenimiento de hardware y desarrollo de software a medida.
+* [**AgroSabio**](https://agrosabio.netlify.app) - Proyecto tecnológico enfocado a la agricultura.
+* [**Encuesta ADIC**](https://encuesta-adic.netlify.app) - Aplicación web para la valoración y análisis de la satisfacción del cliente.
+
+---
+
+### ⚡ Sobre mí
+
+* 🔧 Soy un gran entusiasta del **mantenimiento de hardware** y el ensamblaje de PCs (actualmente manteniendo a tope mi Acer Predator).
+* 🗣️ Estoy en constante aprendizaje, actualmente dedicando tiempo a perfeccionar mi **inglés conversacional**.
+* 🏐 Cuando me alejo del teclado, disfruto de un buen partido de **voleibol**. 
+* 🎮 En mis ratos libres soy un gamer activo (búscame como **xJairRS** en Fortnite, Valorant o Minecraft).
 
 ---
 
 ### 💬 Conectemos
 
-* LinkedIn:([https://www.linkedin.com/in/tu_perfil/](https://www.linkedin.com/in/adolfo-jair-rosas-sanchez-980b01296/))
-* CV:(https://jaircv.netlify.app/)
----
+* **LinkedIn:** [Adolfo Jair Rosas Sanchez](https://www.linkedin.com/in/adolfo-jair-rosas-sanchez-980b01296/)
+* **Portafolio / CV:** [jaircv.netlify.app](https://jaircv.netlify.app/)
