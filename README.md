@@ -1,4 +1,4 @@
-# Hola 👋 Soy Jair (Adolfo Jair Rosas Sanchez)
+# Hola 👋 Soy Jair 
 
 ### 💻 Desarrollador Full-Stack, Sistemas ERP y Emprendedor Tecnológico
 
