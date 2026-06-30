@@ -26,10 +26,11 @@ Soy un apasionado desarrollador, con experiencia en la construcción de aplicaci
 
 ### 🚀 Proyectos Destacados
 
-* **BusEnvio** - Solución de software desarrollada en C# (WinForms) diseñada para el rastreo de paquetes y cálculo preciso de costos de envío para servicios de transporte por autobús.
-* [**MB Insumos**](https://mb-services.netlify.app) - Plataforma y sistema de gestión para un negocio propio que provee suministros de computación, mantenimiento de hardware y desarrollo de software a medida.
+* [**BusEnvio**](https://adic.com.mx/rastreo/)Solución de software desarrollada en C# (WinForms) diseñada para el rastreo de paquetes y cálculo preciso de costos de envío para servicios de transporte por autobús.
+* [**MB Insumos Services**](https://mb-services.netlify.app) - Plataforma y sistema de gestión para un negocio propio que provee suministros de computación, mantenimiento de hardware y desarrollo de software a medida.
 * [**AgroSabio**](https://agrosabio.netlify.app) - Proyecto tecnológico enfocado a la agricultura.
-* [**Encuesta ADIC**](https://encuesta-adic.netlify.app) - Aplicación web para la valoración y análisis de la satisfacción del cliente.
+* [**festyle**](https://festyle.netlify.app/) - Landing page para una tienda de ropa
+* [**MB Insumos**](https://mbinsumos.com/) - Landing page para una empresa de Soporte, Mantemiento y Desarrollo de software
 
 ---
 
